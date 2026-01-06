@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "479372401564",
+    "project_id": "portfolio-e560d",
+    "storage_bucket": "portfolio-e560d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479372401564:android:92b8081ea350f7ef25c659",
+        "android_client_info": {
+          "package_name": "com.example.portfolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479372401564-i9gvgfup6l5665qri92vk2h78ebqgg81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.portfolio",
+            "certificate_hash": "06399800cb79bfc474a7347a6cccf9a8014c8617"
+          }
+        },
+        {
+          "client_id": "479372401564-8j81367ptn82m9q0o0hle56gogtb69ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYCwh2ms_pUa6qVBQgXBswSp1_1Y3Aryk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479372401564-8j81367ptn82m9q0o0hle56gogtb69ru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
